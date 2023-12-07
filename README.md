@@ -5,5 +5,5 @@
 
 # Training Vue
 Dự án Pokemon:
-+ Link website: https://training-vue-pokemon-game.vercel.app/
-+ Soure code: https://github.com/hoangviethung071195/training-vue_pokemon-game
++ Project Link: https://training-vue-pokemon-game.vercel.app
++ Source Code: https://github.com/hoangviethung071195/training-vue_pokemon-game
